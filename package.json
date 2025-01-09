@@ -16,7 +16,7 @@
     "test": "find src -type f -name spec.js | xargs nyc --silent --check-coverage --lines 100 --per-file mocha --require @babel/register src/spec.setup.js"
   },
   "devDependencies": {
-    "@babel/cli": "7.6.2",
+    "@babel/cli": "7.6.3",
     "@babel/core": "7.6.2",
     "@babel/preset-env": "7.6.2",
     "@babel/register": "7.6.2",
