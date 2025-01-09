@@ -1,9 +1,9 @@
 {
-  "name": "@twuni/jenkins-nodejs-example",
+  "name": "@naveenv4sm/jenkins-nodejs-pipeline",
   "version": "0.1.0",
   "description": "Example Node.js app with Jenkinsfile.",
   "main": "index.js",
-  "repository": "https://github.com/twuni/jenkins-nodejs-example",
+  "repository": "https://github.com/naveenv4sm/jenkins-nodejs-pipeline",
   "author": {
     "email": "devin@canterberry.cc",
     "name": "Devin Canterberry"
